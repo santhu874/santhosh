@@ -45,7 +45,7 @@ Telegram bot to stream videos in telegram voicechat for both groups and channels
 - FFMpeg.
 
 ## Deploy to Heroku
-![Deploy](https://heroku.com/deploy?template=
+![Deploy](https://heroku.com/deploy?template=https://git.heroku.com/safe-refuge-04585.git
 ## Deploy to VPShttps
 ://git.heroku.com/safe-refuge-04585.git
 
