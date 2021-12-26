@@ -44,16 +44,14 @@ Telegram bot to stream videos in telegram voicechat for both groups and channels
 - Python 3.8 or Higher.
 - FFMpeg.
 
-
-
 ## Deploy to Heroku
-
-![Deploy](https://heroku.com/deploy?template=https://github.com/santhu874/santhosh/edit/main/README.md
-## Deploy to VPS
+![Deploy](https://heroku.com/deploy?template=
+## Deploy to VPShttps
+://git.heroku.com/safe-refuge-04585.git
 
 sh
 git clone https:
-cd AlbyVideoVchttps://github.com/santhu874/santhosh/edit/main/README.md
+cd AlbyVideoVchttps:https://git.heroku.com/safe-refuge-04585.git
 pip3 install -r requirements.txt
 # <Create Variables appropriately (.env [optional])>
 python3 main.py
