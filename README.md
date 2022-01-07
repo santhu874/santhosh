@@ -9,13 +9,14 @@ Telegram bot to stream videos in telegram voicechat for both groups and channels
 4. SESSION_STRING : Generate From here ![GenerateStringName](https://replit.com/@ALBINPRAVEEN1/getStringName)
 5. CHAT : ID of Channel/Group where the bot plays Music.
 
+
 ## Recommended Optional Vars
 
 1. DATABASE_URI: MongoDB database Url, get from mongodb. This is an optional var, but it is recomonded to use this to experiance the full features.
 2. HEROKU_API_KEY: Your heroku api key. Get one from here
 3. HEROKU_APP_NAME: Your heroku apps name.
 4. FILTERS: Filter the search for channel play. Channel play means you can play all the files in a purticular channel using /cplay command. Current filters are video document . For searching audio files use video document audio . for video only search , use video and so on.
-
+5. OWNER_ID: GIVE YOUR ID @MissRose_bot
 ### Optional Vars
 1. LOG_GROUP : Group to send Playlist, if CHAT is a Group()
 2. ADMINS : ID of users who can use admin commands.
