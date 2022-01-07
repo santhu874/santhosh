@@ -1,4 +1,4 @@
-# ALBYVIDEOPLAYERBOT
+# SANTHU MUSIC BOT
 Telegram bot to stream videos in telegram voicechat for both groups and channels. Supports live streams, YouTube videos and telegram media. With record stream support, Schedule streams, and many more.
 
 ## Config Vars:
@@ -47,12 +47,12 @@ Telegram bot to stream videos in telegram voicechat for both groups and channels
 
 ## Deploy to Heroku
 
-![Deploy](https://heroku.com/deploy?template=https://github.com/ALBINPRAVEEN/AlbyVideoVc)
+![Deploy](https://heroku.com/deploy?template=https://github.com/santhu874/AlbyVideoPlayer1.git
 
 ## Deploy to VPS
 
 sh
-git clone https://github.com/ALBINPRAVEEN/AlbyVideoVc
+git clone https://github.com/santhu874/AlbyVideoPlayer1.git
 cd AlbyVideoVc
 pip3 install -r requirements.txt
 # <Create Variables appropriately (.env [optional])>
